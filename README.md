@@ -1,2 +1,3 @@
-#Semantic Information Propagation, Latent Regime Intelligence, and Reinforcement Learning for Adaptive Financial Decision-Making
-#To incorporate exogenous information into the framework, macroeconomic event data were collected from the Forex Factory economic calendar using a custom web-scraping pipeline designed to capture scheduled economic announcements and policy-related events that are known to influence XAU/USD market dynamics. 
+Semantic Information Propagation, Latent Regime Intelligence, and Reinforcement Learning for Adaptive Financial Decision-Making
+
+To incorporate exogenous information into the framework, macroeconomic event data were collected from the Forex Factory economic calendar using a custom web-scraping pipeline designed to capture scheduled economic announcements and policy-related events that are known to influence XAU/USD market dynamics. 
